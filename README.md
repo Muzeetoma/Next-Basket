@@ -21,4 +21,5 @@ http://localhost:9000/api/users <br>
 ```
 
 <h3>To run tests:</h3>
-php artisan test <br>
+
+    php artisan test <br>
