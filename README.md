@@ -1,6 +1,6 @@
-Instructions for usage<br>
+<h1>Instructions for usage</h1>h1>
 
-To get started:<br>
+<b>To get started:</b>
 docker-compose up<br>
 docker exec -it next-basket-users-app-1 /bin/bash <br>
 php artisan migrate <br> 
