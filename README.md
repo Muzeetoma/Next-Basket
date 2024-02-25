@@ -1,19 +1,19 @@
-Instructions for usage
+Instructions for usage<br>
 
-To get started:
-docker-compose up
-docker exec -it next-basket-users-app-1 /bin/bash
-php artisan migrate  
-php artisan serve --host=0.0.0.0 --port=9000
+To get started:<br>
+docker-compose up<br>
+docker exec -it next-basket-users-app-1 /bin/bash <br>
+php artisan migrate <br> 
+php artisan serve --host=0.0.0.0 --port=9000 <br>
 
-To make api requests:
-Post Request:
-http://localhost:9000/api/users
-{
-    "email”:”muze@gmail.com",
-    "firstName”:”Muze”,
-    "lastName”:”Johnson”
+To make api requests: <br>
+Post Request: <br>
+http://localhost:9000/api/users <br>
+{ <br>
+    "email”:”muze@gmail.com", <br>
+    "firstName”:”Muze”, <br>
+    "lastName”:”Johnson” <br>
 }
 
-To run tests:
-php artisan test
+To run tests: <br>
+php artisan test <br>
