@@ -2,7 +2,7 @@
 
 <h3>To get started:</h3>
 
-    - [ ]docker-compose up
+    - [ ] docker-compose up
     - [ ] docker exec -it next-basket-users-app-1 /bin/bash
     - [ ] php artisan migrate
     - [ ] php artisan serve --host=0.0.0.0 --port=9000
