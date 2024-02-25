@@ -11,6 +11,7 @@
 
 <h3>To make api requests:</h3>
 Post Request: <br>
+
 ```
 http://localhost:9000/api/users <br>
 { <br>
