@@ -11,12 +11,12 @@
 
 <h3>To make api requests:</h3>
 Post Request: <br>
-```http://localhost:9000/api/users <br>
+`http://localhost:9000/api/users <br>
 { <br>
     "email”:”muze@gmail.com", <br>
     "firstName”:”Muze”, <br>
     "lastName”:”Johnson” <br>
-}```
+}`
 
 <h3>To run tests:</h3>
 php artisan test <br>
